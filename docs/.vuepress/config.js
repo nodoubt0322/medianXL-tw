@@ -1,14 +1,14 @@
 module.exports = {
-  title: "hello world",
-  description: "just play around",
+  title: "魔電中文網 (Median XL)",
+  description: "魔電中文相關資源網站",
   themeConfig: {
-    nav: [{ text: "Home", link: "/" }],
+    nav: [{ text: "回首頁", link: "/" }],
     sidebar: [
       "/",
       "/install/",
       "/leveling/",
-      "/cube/",
       "/merc/",
+      "/cube/",
       "/uber/",
       "/occultEffigies/",
       "/umo/",
