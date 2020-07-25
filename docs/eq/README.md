@@ -29,8 +29,9 @@ Links 那欄位裡有個 NotArmory
 網址會像這樣  
 https://tsw.vn.cz/acc/char.php?name=TaiwanNumberOne  
 TaiwanNumberOne 就是那角色的名稱  
-把 TaiwanNumberOne 改成你想要看的角色名稱  
-就能看該角色的資料了 (前提是他要有開放給別人看)
+把 TaiwanNumberOne 改成要看的角色名稱  
+就能看該角色的資料了  
+(前提是他要有開放給別人看)
 
 ## 看天梯前幾名的裝備
 
@@ -39,5 +40,6 @@ TaiwanNumberOne 就是那角色的名稱
 把他的角色名稱置換  
 就能看了(只要他權限有開放)  
 例如現在 S25 刺客第一名是 lobox  
-網址就會是https://tsw.vn.cz/acc/char.php?name=lobox  
+網址就會是  
+https://tsw.vn.cz/acc/char.php?name=lobox  
 看高手怎麼配裝也是一種學習的方法
