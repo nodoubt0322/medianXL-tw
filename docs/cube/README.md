@@ -159,6 +159,11 @@ esc > 介面設定 裡面設定
 四個不同的 Star Chart Pieces → Completed Star Chart
 五個不同 Dream Fragments + Completed Star Chart + Dimensional Key= Upgraded Dimensional Key
 
+## 護符相關
+
+- 相同的獎盃 x 25 → 獎盃碎片
+- 相同的獎盃碎片 x3 → 獎盃
+
 ## 其他
 
 - 懷特之腿 → 牛關
