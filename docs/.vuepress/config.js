@@ -27,6 +27,7 @@ module.exports = {
       "/guide/",
       "/trade/",
       "/eq/",
+      "/dropmod/",
       "/speed/",
       "/bn/",
       "/occultEffigies/",
