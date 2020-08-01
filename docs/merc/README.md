@@ -33,10 +33,10 @@
 
 - 武器: su Qarak's Will， 洗 ed%、ewd%，鑲 jah(31)\*6
 - 頭: set Witchhunter's Hood(刺客套裝頭)，洗 FHR，鑲 sha(34)\*4
-- 身體: nih 符文組，洗 FHR，鑲 15%ias*1，15%FHR *4
-- 腰帶: vith 符文組，洗 FHR，鑲 15%FHR\*1
+- 身體: nih(48) 符文組，洗 FHR，鑲 15%ias*1，15%FHR *4
+- 腰帶: vith(42) 符文組，洗 FHR，鑲 15%FHR\*1
 - 手套: tu Heavy Gloves，洗 FHR 跟不可中斷攻擊，鑲 ber(30)\*4
-- 鞋子: cham 符文組，洗 FHR 跟不可中斷攻擊，ar%珠寶\*3
+- 鞋子: cham(32) 符文組，洗 FHR 跟不可中斷攻擊，ar%珠寶\*3
 - 項鍊: Scarab of Death，洗抗性，打寶
 
 攻速全身加起來到 147%  
