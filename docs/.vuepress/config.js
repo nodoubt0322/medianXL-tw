@@ -1,6 +1,6 @@
 module.exports = {
-  title: "魔電中文網 (Median XL)",
-  description: "魔電中文(Median XL)相關資源網站",
+  title: "暗黑2 魔電中文網(Median XL)",
+  description: "D2、暗黑2、魔電、Median XL，中文相關資源網站",
   plugins: [
     "@vuepress/back-to-top",
     [
